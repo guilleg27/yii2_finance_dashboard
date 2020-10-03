@@ -7,5 +7,6 @@ Pueden crearse nuevos modelos de negocio, categoria de costo, y permisos de usua
 Se incluye un archivo "DumpDBFinanceDashboard.sql" para hacer dump de la base de datos.
 <br/>
 Login a plataforma demo:<br/>
+http://localhost/yii2_finance-dashboard/app/backend/web/<br/>
 User: admin<br/>
 Pass: admin<br/>
